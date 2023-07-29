@@ -5,10 +5,12 @@
 </div>
   
 <div style="display: inline_block" align="center"><br>
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original-wordmark.svg" />
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
 </div>
   
 <!--- 
